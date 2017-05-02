@@ -1,3 +1,3 @@
 # iPythonNotebooks
 Collection of my iPython Notebooks
-Various iPython Notebooks. Typically doing things with FITS data.
+Typically doing things with FITS data or other data sets
