@@ -1,0 +1,1 @@
+Using geodetic (GNSS) data.
