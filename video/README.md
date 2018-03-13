@@ -1,1 +1,1 @@
-Experimantal work related to using volcano camera images.
+Experimental work related to using volcano camera images.
